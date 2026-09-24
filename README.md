@@ -2,20 +2,20 @@
 
 A fast, lightweight, and free Bengali Web Font CDN powered by GitHub and jsDelivr.
 
-A10 Font CDN makes it easy to use a collection of Bengali fonts on websites and web applications without downloading or hosting font files manually.
+A10 Font CDN provides a simple way to use Bengali web fonts in websites and web applications without manually hosting or downloading font files.
 
 ---
 
 🚀 Quick Start
 
-Add the following stylesheet inside the "<head>" section of your HTML document:
+Add the following "<link>" tag inside the "<head>" section of your HTML file:
 
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@main/style.css"
+  href="https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@v1.0.0/style.css"
 >
 
-That's it! You can now use the available fonts throughout your website.
+Once added, all available fonts can be used through CSS.
 
 ---
 
@@ -35,7 +35,7 @@ Font Name| CSS "font-family"
 
 💻 Usage
 
-Once the CDN stylesheet is linked, simply use the desired font with CSS.
+After loading the CDN stylesheet, use any available font with the corresponding CSS "font-family".
 
 Example
 
@@ -51,11 +51,9 @@ p {
   font-family: 'Alinur Nokshotro', sans-serif;
 }
 
-You can use different fonts for different elements depending on your design requirements.
-
 ---
 
-🌐 Example HTML
+🌐 HTML Example
 
 <!DOCTYPE html>
 <html lang="bn">
@@ -67,7 +65,7 @@ You can use different fonts for different elements depending on your design requ
 
   <link
     rel="stylesheet"
-    href="https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@main/style.css"
+    href="https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@v1.0.0/style.css"
   >
 
   <style>
@@ -94,34 +92,46 @@ You can use different fonts for different elements depending on your design requ
 
 ---
 
+📌 Version
+
+Current Version: "v1.0.0"
+
+Stable CDN
+
+https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@v1.0.0/style.css
+
+Using a specific version ensures that your project continues to use the same font release even when newer versions are published.
+
+---
+
 ⚡ CDN
 
-This project uses jsDelivr for fast and reliable global delivery.
+A10 Font CDN uses jsDelivr for fast and reliable global delivery.
 
-CDN Base URL:
+CDN Base URL
 
-https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@main/
+https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@v1.0.0/
 
 Stylesheet
 
-https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@main/style.css
+https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@v1.0.0/style.css
 
 ---
 
-📦 Features
+✨ Features
 
-- ⚡ Fast global CDN delivery
-- 🪶 Lightweight and easy to use
-- 🇧🇩 Bengali font support
-- 🔗 No manual font hosting required
-- 🌐 Works with websites and web applications
+- ⚡ Fast CDN delivery
+- 🪶 Lightweight
+- 🇧🇩 Bengali web font support
+- 🌐 GitHub + jsDelivr powered
 - 📱 Mobile-friendly
-- 🆓 Free to use through the CDN
-- 🔄 GitHub-based font management
+- 🔗 Easy CSS integration
+- 📦 Version-specific CDN support
+- 🆓 Free CDN delivery
 
 ---
 
-🛠️ Project Structure
+📁 Project Structure
 
 a10-font-cdn/
 │
@@ -136,17 +146,18 @@ a10-font-cdn/
 │   └── Shahid-Abu-Sayeed/
 │
 ├── style.css
+│
 └── README.md
 
 ---
 
-📄 License & Credits
+📜 License & Credits
 
 The fonts included in this repository belong to their respective creators and designers.
 
 A10 Font CDN provides CDN hosting and web delivery for convenient use in websites and web applications.
 
-Please respect the original font creators' licensing terms and usage restrictions.
+Please respect the original creators' licenses, copyrights, and usage restrictions for each font.
 
 ---
 
@@ -154,7 +165,7 @@ Please respect the original font creators' licensing terms and usage restriction
 
 Alpha 10 Dev Studio
 
-«BUILD SMARTER. CREATE FASTER.»
+BUILD SMARTER. CREATE FASTER.
 
 GitHub: "alpha10devstudio"
 
