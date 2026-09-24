@@ -1,0 +1,75 @@
+/* ==========================================
+   Custom Font CDN - CSS Configuration
+   ========================================== */
+
+/* ১. এস কে বিশাল (SK Bishal) */
+@font-face {
+    font-family: 'SK Bishal';
+    src: url('./assets/fonts/sk-bishal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ২. আলিনুর নক্ষত্র (Alinur Nokshotro) */
+@font-face {
+    font-family: 'Alinur Nokshotro';
+    src: url('./assets/fonts/alinur-nokkhotro.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ৩. আলিনুর নবীন (Alinur Nobin) */
+@font-face {
+    font-family: 'Alinur Nobin';
+    src: url('./assets/fonts/alinur-nobin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ৪. মানোয়ার নীহার (Manowar Nihar) */
+@font-face {
+    font-family: 'Manowar Nihar';
+    src: url('./assets/fonts/manowar-nihar.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ৫. সিরাজী সানজার (Siraji Sanjar) */
+@font-face {
+    font-family: 'Siraji Sanjar';
+    src: url('./assets/fonts/siraji-sanjar.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ৬. আলিনুর তৎসম (Alinur Totsomo) */
+@font-face {
+    font-family: 'Alinur Totsomo';
+    src: url('./assets/fonts/alinur-totsomo.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ৭. আলিনুর উল্লাস (Alinur Ullash) */
+@font-face {
+    font-family: 'Alinur Ullash';
+    src: url('./assets/fonts/alinur-ullash.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ৮. শহীদ আবু সাঈদ (Shahid Abu Sayeed) */
+@font-face {
+    font-family: 'Shahid Abu Sayeed';
+    src: url('./assets/fonts/shahid-abu-sayeed.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
