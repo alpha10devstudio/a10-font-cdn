@@ -117,9 +117,13 @@ Stylesheet
 https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@v1.0.0/style.css
 
 ---
+
 🔴 Fonts Testing / Live Preview
 
-https://htmlpreview.github.io/?https://github.com/alpha10devstudio/a10-font-cdn/blob/main/demo.html
+Preview and test the available Bengali fonts directly in your browser:
+
+"Live Font Preview" (https://htmlpreview.github.io/?https://github.com/alpha10devstudio/a10-font-cdn/blob/main/demo.html)
+
 ---
 
 ✨ Features
@@ -151,17 +155,25 @@ a10-font-cdn/
 │
 ├── style.css
 │
+├── demo.html
+│
 └── README.md
 
 ---
 
 📜 License & Credits
 
-The fonts included in this repository belong to their respective creators and designers.
+The Bengali fonts included in this repository are sourced from Lipighor.
 
-A10 Font CDN provides CDN hosting and web delivery for convenient use in websites and web applications.
+A10 Font CDN does not claim ownership of these fonts. The fonts remain subject to the copyrights, licenses, and usage terms of their respective creators and source.
 
-Please respect the original creators' licenses, copyrights, and usage restrictions for each font.
+This repository provides CDN hosting and web delivery through GitHub and jsDelivr for convenient use in websites and web applications.
+
+Please review and respect the original font licenses and the terms provided by Lipighor before using these fonts in personal, commercial, or redistributed projects.
+
+Font Source
+
+Lipighor — Bengali Font Source
 
 ---
 
@@ -169,9 +181,9 @@ Please respect the original creators' licenses, copyrights, and usage restrictio
 
 Alpha 10 Dev Studio
 
-BUILD SMARTER. CREATE FASTER.
+«BUILD SMARTER. CREATE FASTER.»
 
-GitHub: "alpha10devstudio"
+GitHub: "alpha10devstudio" (https://github.com/alpha10devstudio)
 
 ---
 
