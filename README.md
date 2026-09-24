@@ -117,6 +117,10 @@ Stylesheet
 https://cdn.jsdelivr.net/gh/alpha10devstudio/a10-font-cdn@v1.0.0/style.css
 
 ---
+🔴 Fonts Testing / Live Preview
+
+https://htmlpreview.github.io/?https://github.com/alpha10devstudio/a10-font-cdn/blob/main/demo.html
+---
 
 ✨ Features
 
